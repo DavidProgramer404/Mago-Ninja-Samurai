@@ -1,0 +1,15 @@
+C:\Users\david\OneDrive\Escritorio\csharp console\Mago, Ninja, Samurai\obj\Debug\net7.0\Mago, Ninja, Samurai.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Escritorio\csharp console\Mago, Ninja, Samurai\obj\Debug\net7.0\Mago, Ninja, Samurai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Escritorio\csharp console\Mago, Ninja, Samurai\obj\Debug\net7.0\Mago, Ninja, Samurai.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Escritorio\csharp console\Mago, Ninja, Samurai\obj\Debug\net7.0\Mago, Ninja, Samurai.AssemblyInfo.cs
+C:\Users\david\OneDrive\Escritorio\csharp console\Mago, Ninja, Samurai\obj\Debug\net7.0\Mago, Ninja, Samurai.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Escritorio\csharp console\Mago, Ninja, Samurai\bin\Debug\net7.0\Mago, Ninja, Samurai.exe
+C:\Users\david\OneDrive\Escritorio\csharp console\Mago, Ninja, Samurai\bin\Debug\net7.0\Mago, Ninja, Samurai.deps.json
+C:\Users\david\OneDrive\Escritorio\csharp console\Mago, Ninja, Samurai\bin\Debug\net7.0\Mago, Ninja, Samurai.runtimeconfig.json
+C:\Users\david\OneDrive\Escritorio\csharp console\Mago, Ninja, Samurai\bin\Debug\net7.0\Mago, Ninja, Samurai.dll
+C:\Users\david\OneDrive\Escritorio\csharp console\Mago, Ninja, Samurai\bin\Debug\net7.0\Mago, Ninja, Samurai.pdb
+C:\Users\david\OneDrive\Escritorio\csharp console\Mago, Ninja, Samurai\obj\Debug\net7.0\Mago, Ninja, Samurai.dll
+C:\Users\david\OneDrive\Escritorio\csharp console\Mago, Ninja, Samurai\obj\Debug\net7.0\refint\Mago, Ninja, Samurai.dll
+C:\Users\david\OneDrive\Escritorio\csharp console\Mago, Ninja, Samurai\obj\Debug\net7.0\Mago, Ninja, Samurai.pdb
+C:\Users\david\OneDrive\Escritorio\csharp console\Mago, Ninja, Samurai\obj\Debug\net7.0\Mago, Ninja, Samurai.genruntimeconfig.cache
+C:\Users\david\OneDrive\Escritorio\csharp console\Mago, Ninja, Samurai\obj\Debug\net7.0\ref\Mago, Ninja, Samurai.dll
